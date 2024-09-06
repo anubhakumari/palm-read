@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+img{
+    width: 300px;
+    height: 400px;
+    margin-left: 15px;
+    
+}
+#Red{
+    color: red
+    
+}
+#Green{
+    color: green;
+}
+#Blue{
+    color: blue;
+}
+#White{
+    color: white;
+}
+#more{
+    color: blueviolet;
+}
